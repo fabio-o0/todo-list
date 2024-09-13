@@ -1,0 +1,23 @@
+.todo-item-container {
+    display: flex;
+    align-items: center;
+}
+
+.todo-item-name {
+    flex: 1
+}
+
+.item-container {
+    background-color: #007bff;
+    border-radius: 12px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 24px;
+    padding-right: 12px;
+    margin-bottom: 12px;
+}
+
+.icon {
+    margin-right: 12px;
+    cursor: pointer;
+}
